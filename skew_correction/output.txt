@@ -1,0 +1,5 @@
+Image File: /Users/ariass/Desktop/OCR/skew_correction/../assets/image-rotated.jpg
+Average Deviation from pi/4: 27.2
+Estimated Angle: 72.0
+Angle bins: [[], [72.0], [], []]
+
